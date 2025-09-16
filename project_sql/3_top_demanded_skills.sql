@@ -20,7 +20,7 @@ ORDER BY
     demand_count DESC
 LIMIT 5;
 
-/*
-Top in demand skills in Czechia are little bit different compare to rest of the world. SQL is still winning but Power BI took the scond place.
-*/
+-- Top in demand skills in Czechia are little bit different compare to rest of the world. 
+-- SQL is still winning but Power BI took the scond place.
+
 
